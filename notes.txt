@@ -1,0 +1,9 @@
+3. Create and Work on a New Branch
+
+- Create a new branch named feature-update.
+
+- Switch to the feature-update branch.
+
+- Edit README.md or create a new file (e.g., notes.txt) and add some additional content.
+
+- Stage and commit your changes on the feature-update branch.
